@@ -32,3 +32,17 @@ div h1{
     font-weight: 600;
 
 }
+ div strong {
+    color: #c4f82a;
+    font-size: 14px;
+    line-height: 21px;
+ }
+ div p{
+    margin-block: 24px;
+    font-size: 14px;
+    line-height: 21px;
+ }
+ div a{
+    display: block;
+    margin: 16px;
+ }
